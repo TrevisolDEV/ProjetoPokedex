@@ -10,4 +10,4 @@ Espero que gostem do meu projeto!
 
 Link do site
 
-<a href="https://endearing-piroshki-2c2433.netlify.app"><button>Meu Botão</button></a>
+<a href="https://endearing-piroshki-2c2433.netlify.app"><button>Meu Projeto</button></a>
